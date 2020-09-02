@@ -1,3 +1,0 @@
-ffmpeg -i /Volumes/VERBATIM_HD/Stage_Maxime/faceForensics/raw/videos/183.mp4 -f image2 -vf "select='eq(pict_type,PICT_TYPE_P)'" -vsync vfr /Volumes/VERBATIM_HD/Stage_Maxime/faceForensics/raw/img/183/
-
-ffmpeg -i /Volumes/VERBATIM_HD/Stage_Maxime/Celeb-DF-v2/Celeb-real/videos/id0_0000.mp4 -f image2 -vf select="eq(pict_type,PICT_TYPE_P)" -vsync vfr /Volumes/VERBATIM_HD/Stage_Maxime/faceForensics/raw/img/test/'%03d.png'

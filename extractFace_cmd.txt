@@ -1,1 +1,0 @@
-python3 src/face_extraction.py --cascade data/haarcascades/haarcascade_frontalface_alt.xml /Volumes/VERBATIM\ HD/Stage_Maxime/faceForensics/dataSet_c40/original_sequences/youtube/c40/videos/004.mp4
